@@ -1,5 +1,5 @@
 # 💫 About Me:
-iam ahmed khaled abduallah <br>iam currently a cs student at galala university in egypt<br>iam currently working on my very own voice assistant 'jarvis'<br>
+iam ahmed khaled abduallah <br>iam currently working on my very own voice assistant 'jarvis'<br>
 
 
 ## 🌐 Socials:
