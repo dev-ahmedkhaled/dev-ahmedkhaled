@@ -1,6 +1,6 @@
 # About Me
 
-- 🔭 **Currently building:**  
+- **Currently building:**  
   An offline AI voice assistant (Jarvis) in Python — NLP, speech processing, and local LLMs. Teaching it to keep up with me.  
 
 - **Open to collabs on:**  
