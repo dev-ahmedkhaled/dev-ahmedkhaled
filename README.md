@@ -1,21 +1,21 @@
-# 💫 About Me
+# About Me
 
 - 🔭 **Currently building:**  
   An offline AI voice assistant (Jarvis) in Python — NLP, speech processing, and local LLMs. Teaching it to keep up with me.  
 
-- 👯 **Open to collabs on:**  
+- **Open to collabs on:**  
   AI/ML, intelligent assistants, computer vision, or projects where code actually solves real-world problems.  
 
-- 🤝 **Could use a hand with:**  
+- **Could use a hand with:**  
   System design, ML best practices, and deploying AI projects efficiently.  
 
-- 🌱 **Learning right now:**  
+- **Learning right now:**  
   Machine learning, deep learning, NLP, and building AI systems that can handle complex tasks.  
 
-- 💬 **Ask me about:**  
+- **Ask me about:**  
   Python, AI projects, voice assistants, ML learning paths, or navigating the internship landscape.  
 
-- ⚡ **Fun fact:**  
+- **Fun fact:**  
   I figure things out by experimenting and testing — learning by doing is my style.  
 
 ---
