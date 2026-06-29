@@ -108,10 +108,15 @@ A supervisor/orchestrator multi-agent system being built to live on the desktop:
 </details>
 
 <details>
-<summary><b>🐧 Linux AI Assistant</b> — LangChain · Docker · ChromaDB · Ollama</summary>
+<summary><b>🐧 Linux AI Assistant</b> — LangChain · Docker · ChromaDB · Ollama · NLTK</summary>
 <br>
-Multi-tool agent with intent classification, secure Docker sandbox, RAG pipeline over Linux docs, and cross-session memory. 100% task success on custom benchmark. The project that started it all — Jarvis is its spiritual successor.
-<br><br>
+Multi-tool LangChain agent with intent classification routing across 5 custom tools: command execution, RAG search, system info, command explanation, and error classification. Highlights:
+<ul>
+<li>Secure Docker sandbox with destructive pattern detection, safe mode toggling, persistent session containers, and configurable memory/timeout limits</li>
+<li>RAG pipeline over Linux man pages and Arch wiki using ChromaDB + nomic-embed-text embeddings</li>
+<li>Cross-session memory tracking command history, system info (CPU/RAM/GPU/distro), and error logs — persisting up to 500 entries and injecting context into each prompt</li>
+<li>100% task success on a custom 5-task benchmark; NL-to-bash translation evaluated via BLEU and exact match against the NL2Bash dataset</li>
+</ul>
 <a href="https://github.com/dev-ahmedkhaled/Linux_Assistant">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -217,7 +222,6 @@ The student has become the master, and the master is confused.
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder=true" alt="Jokes" />
 </p>
-
 ---
 
 ### 🐍 Contribution Snake
