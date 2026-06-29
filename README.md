@@ -225,7 +225,7 @@ The student has become the master, and the master is confused.
 
 ---
 
-###🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dev-ahmedkhaled/dev-ahmedkhaled/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
