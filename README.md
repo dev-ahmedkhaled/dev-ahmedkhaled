@@ -222,6 +222,7 @@ The student has become the master, and the master is confused.
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder=true" alt="Jokes" />
 </p>
+
 ---
 
 ### 🐍 Contribution Snake
