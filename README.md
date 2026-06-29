@@ -1,71 +1,82 @@
-# About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Ahmed%20Khaled%20Abduallah&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" alt="Header" />
 
-- **Currently building:**  
-  An offline AI voice assistant (Jarvis) in Python — NLP, speech processing, and local LLMs. Teaching it to keep up with me.  
+<div align="center">
+  
+### AI Engineer 
 
-- **Open to collabs on:**  
-  AI/ML, intelligent assistants, computer vision, or projects where code actually solves real-world problems.  
+I'm an AI enthusiast and intern with a knack for transforming complex problems into innovative solutions. With a solid grounding in machine learning and AI , I’m committed to harnessing the power of AI to build applications that make a difference.
 
-- **Could use a hand with:**  
-  System design, ML best practices, and deploying AI projects efficiently.  
-
-- **Learning right now:**  
-  Machine learning, deep learning, NLP, and building AI systems that can handle complex tasks.  
-
-- **Ask me about:**  
-  Python, AI projects, voice assistants, ML learning paths, or navigating the internship landscape.  
-
-- **Fun fact:**  
-  I figure things out by experimenting and testing — learning by doing is my style.  
+</div>
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmd-hassona) 
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=for-the-badge&logo=chromadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0080FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
 ---
 
-## 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+### 📈 GitHub Stats  
+![Profile Views](https://komarev.com/ghpvc/?username=dev-ahmedkhaled&color=58a6ff&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/dev-ahmedkhaled?style=flat-square&logo=github&color=58a6ff&labelColor=0d1117)
+![GitHub User's stars](https://img.shields.io/github/stars/dev-ahmedkhaled?style=flat-square&logo=github&color=58a6ff&labelColor=0d1117)
+
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dev-ahmedkhaled&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dev-ahmedkhaled&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmedkhaled&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🌱 Currently
+
+- 📚 Learning: **Diving deeper into AI engineering and the latest machine learning technologies to stay ahead of the curve.**
+- 🤝 Open to collaborate on: **AI-driven projects, machine learning applications, and innovative software solutions.**
+- 💬 Ask me about: **Natural language processing, machine learning frameworks, full-stack application development.**
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-ahmedkhaled&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+### 📫 Let's Connect
 
----
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedkhaleda015@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmd-hassona) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-ahmedkhaled)
 
----
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dev-ahmedkhaled&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=dev-ahmedkhaled&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚡ I build agents that reason through complex tasks, then watch them confidently hallucinate a Linux command that doesn't exist.             
+    The student has become the master, and the master is confused.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%" alt="Footer" />
