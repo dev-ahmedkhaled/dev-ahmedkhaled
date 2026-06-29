@@ -1,8 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Ahmed%20Khaled%20Abduallah&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" alt="Header" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Ahmed%20Khaled%20Abduallah&fontSize=50&fontColor=f1f5f9&animation=fadeIn" width="100%" alt="Header" />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Agent+Builder;RAG+%7C+LangChain+%7C+Docker" alt="Typing Subtitle" />
+</div>
 <div align="center">
   
-### AI Engineer 
 
 I'm an AI enthusiast and intern with a knack for transforming complex problems into innovative solutions. With a solid grounding in machine learning and AI , I’m committed to harnessing the power of AI to build applications that make a difference.
 
