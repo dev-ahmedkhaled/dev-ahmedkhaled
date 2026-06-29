@@ -138,16 +138,6 @@ End-to-end Big Data + ML pipeline on a heavily imbalanced dataset (~0.17% fraud)
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dev-ahmedkhaled/dev-ahmedkhaled/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-<p align="center"><i>⚠️ Needs the snake-generation workflow enabled once — see <code>snake.yml</code> below.</i></p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <!-- Note: github-profile-trophy.vercel.app and github-readme-stats.vercel.app are shared
@@ -215,6 +205,14 @@ The student has become the master, and the master is confused.
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder=true" alt="Jokes" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-ahmedkhaled/dev-ahmedkhaled/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1e4d6b,100:0a1628&height=100&section=footer&animation=fadeIn&v=2" width="100%" alt="Footer" />
