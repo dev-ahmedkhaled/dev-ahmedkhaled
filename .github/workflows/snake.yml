@@ -14,6 +14,11 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
       - uses: Platane/snk@v3
         id: snake-gif
         with:
