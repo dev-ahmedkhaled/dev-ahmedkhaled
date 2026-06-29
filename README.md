@@ -97,9 +97,20 @@ ahmed@galala:~$ ./jarvis --status
 ### 🚀 Featured Projects
 
 <details open>
-<summary><b>🤖 Jarvis</b> — ambient multi-agent AI assistant for Linux · LangGraph · RAG · Docker</summary>
+<summary><b>🤖 Jarvis</b> — ambient multi-agent AI desktop assistant · LangGraph · RAG · Ollama · <i>in progress</i></summary>
 <br>
-A supervisor/orchestrator multi-agent system that lives on the desktop: RAG over Linux docs via Docling + ChromaDB, live web search and crawl4ai scraping, secure Docker-sandboxed tool execution, and cross-session memory. Evolved from a single-tool assistant (100% task success on custom benchmark) into a full multi-agent architecture — currently in active development.
+A supervisor/orchestrator multi-agent system being built to live on the desktop: modular architecture with dedicated <code>agents/</code>, <code>tools/</code>, <code>memory/</code>, and <code>State/</code> layers, local inference via Ollama (Qwen), and a RAG pipeline over personal knowledge. Currently in active development — architecture is laid out, core modules wired up, shipping incrementally.
+<br><br>
+<a href="https://github.com/dev-ahmedkhaled/jarvis">
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br><br>
+</details>
+
+<details>
+<summary><b>🐧 Linux AI Assistant</b> — LangChain · Docker · ChromaDB · Ollama</summary>
+<br>
+Multi-tool agent with intent classification, secure Docker sandbox, RAG pipeline over Linux docs, and cross-session memory. 100% task success on custom benchmark. The project that started it all — Jarvis is its spiritual successor.
 <br><br>
 <a href="https://github.com/dev-ahmedkhaled/Linux_Assistant">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -214,5 +225,6 @@ The student has become the master, and the master is confused.
 <p align="center">
   <img src="https://raw.githubusercontent.com/dev-ahmedkhaled/dev-ahmedkhaled/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1e4d6b,100:0a1628&height=100&section=footer&animation=fadeIn&v=2" width="100%" alt="Footer" />
