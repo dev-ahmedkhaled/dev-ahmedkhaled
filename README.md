@@ -162,13 +162,7 @@ End-to-end Big Data + ML pipeline on a heavily imbalanced dataset (~0.17% fraud)
 
 ---
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-ahmedkhaled&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
-</div>
-
----
 
 ### 📈 Stats & Activity
 
