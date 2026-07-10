@@ -6,7 +6,7 @@
 
 <div align="center">
 
-4th-year CS (AI & ML) student turning theory into shipped agents — currently building **Jarvis**, a multi-agent ambient AI assistant for Linux.
+3rd-year CS (AI & ML) student turning theory into shipped agents — currently building **Jarvis**, a multi-agent ambient AI assistant for Linux.
 
 </div>
 
@@ -154,11 +154,15 @@ End-to-end Big Data + ML pipeline on a heavily imbalanced dataset (~0.17% fraud)
 
 ---
 
-### 🏆 GitHub Trophies
+### 🐍 Contribution Snake
 
-<!-- Note: github-profile-trophy.vercel.app and github-readme-stats.vercel.app are shared
-     public demo instances that frequently hit GitHub API rate limits or get paused.
-     If these don't render, see the self-host instructions Claude gave in chat. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-ahmedkhaled/dev-ahmedkhaled/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dev-ahmedkhaled&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
@@ -169,8 +173,7 @@ End-to-end Big Data + ML pipeline on a heavily imbalanced dataset (~0.17% fraud)
 ### 📈 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-ahmedkhaled&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmedkhaled&layout=compact&theme=github_dark_blue&hide_border=true" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="Metrics" />
 </p>
 
 <p align="center">
@@ -222,14 +225,5 @@ The student has become the master, and the master is confused.
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder=true" alt="Jokes" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dev-ahmedkhaled/dev-ahmedkhaled/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1e4d6b,100:0a1628&height=100&section=footer&animation=fadeIn&v=2" width="100%" alt="Footer" />
