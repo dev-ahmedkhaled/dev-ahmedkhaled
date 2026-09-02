@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1e4d6b,100:0a1628&height=200&section=header&text=Ahmed%20Khaled%20Abduallah&fontSize=50&fontColor=7dd3fc&stroke=0a1628&strokeWidth=2&animation=fadeIn&v=2" width="100%" alt="Header" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer-in-training;Agentic+AI+%7C+RAG+%7C+LangGraph;Arch+Linux+Tinkerer+%40glitch" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Agentic+AI+%7C+RAG+%7C+LangGraph;Arch+Linux+Tinkerer+%40glitch" alt="Typing Subtitle" />
 </div>
 
 <div align="center">
