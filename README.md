@@ -6,7 +6,7 @@
 
 <div align="center">
 
-3rd-year CS (AI & ML) student turning theory into shipped agents — currently building **Jarvis**, a multi-agent ambient AI assistant for Linux.
+AI Engineer turning theory into shipped agents — currently building **Jarvis**, a multi-agent ambient AI assistant for Linux.
 
 </div>
 
